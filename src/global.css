@@ -1,0 +1,22 @@
+*{
+    font-family: Fire Sans,Droid Sans,Helvetica Neue, sans-serif;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-areas: 
+        "head head head"
+        "main main sidebar"
+        "main main sidebar";
+}
+
+.car-page img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+a.active {
+    color: burlywood;
+}

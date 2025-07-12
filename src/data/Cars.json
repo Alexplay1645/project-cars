@@ -1,0 +1,42 @@
+[
+    {   
+        "id" : "shevrollet",
+        "model" : "Chevrolet Camaro",
+        "color" : "yellow",
+        "price" : "$30,999",
+        "manufacturer" : "Chevrolet (USA)", 
+        "img" : "/Images/shevrolet.jpg"
+    } , 
+    {
+        "id" : "BMW",
+        "model" : "BMW X5",
+        "color" : "black",
+        "price" : "$20,487",
+        "manufacturer" : "BMW (Germany)",
+        "img" : "/Images/BMW.jpg"
+    } ,
+    {
+        "id" : "Toyota",
+        "model" : "Toyota Camry",
+        "color" : "white",
+        "price" : "$29,456",
+        "manufacturer" : "Toyota (Japan)",
+        "img" : "/Images/Toyota.jpg"
+    } ,
+    {
+        "id" : "Ford",
+        "model" : "Ford Mustang",
+        "color" : "red",
+        "price" : "$39,635",
+        "manufacturer" : "Ford (USA)",
+        "img" : "/Images/Ford.jpg"
+    } ,
+    {
+        "id" : "Audi",
+        "model" : "Audi A6",
+        "color" : "white",
+        "price" : "$36,968",
+        "manufacturer" : "Audi (Germany)",
+        "img" : "/Images/Audi.jpg"
+    } 
+]
